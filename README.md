@@ -11,3 +11,9 @@ This repo is for my Manual &Automation Test cases and bug reports about facebook
 </ol>
 <p>These bug reports and test cases are for portfolio and work showcase any Bad or malicious usage is not allowed</p>
 
+<ul>
+  <p>Let's work together ❤️</p>
+  <li><a href="https://www.linkedin.com/in/abdullah-aladham/">Linkedin</a></li>
+  <li><a href="https://www.upwork.com/freelancers/~01ca51ad621ece9a78">Upwork</a></li>
+</ul>
+
