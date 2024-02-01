@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706829440383,512,https://www.facebook.com/,200,OK,Thread Group 1-1,text,true,,68078,745,3,3,https://www.facebook.com/,359,0,161
+1706829440582,483,https://www.facebook.com/,200,OK,Thread Group 1-2,text,true,,68055,745,4,4,https://www.facebook.com/,318,0,148
+1706829440898,260,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-1,bin,true,,3510,415,4,4,https://facebook.com/security/hsts-pixel.gif,260,0,158
+1706829440381,772,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,71588,1160,4,4,null,619,6,319
+1706829440784,423,https://www.facebook.com/,200,OK,Thread Group 1-3,text,true,,68054,745,4,4,https://www.facebook.com/,272,0,133
+1706829441067,241,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-2,bin,true,,3510,415,4,4,https://facebook.com/security/hsts-pixel.gif,241,0,139
+1706829440580,724,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,71565,1160,4,4,null,559,4,287
+1706829440982,478,https://www.facebook.com/,200,OK,Thread Group 1-4,text,true,,68057,745,3,3,https://www.facebook.com/,329,0,147
+1706829441209,268,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-3,bin,true,,3510,415,3,3,https://facebook.com/security/hsts-pixel.gif,267,0,153
+1706829440783,691,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,71564,1160,3,3,null,539,3,286
+1706829441462,244,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-4,bin,true,,3510,415,2,2,https://facebook.com/security/hsts-pixel.gif,243,0,140
+1706829440980,722,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,71567,1160,2,2,null,572,5,287
+1706829441181,543,https://www.facebook.com/,200,OK,Thread Group 1-5,text,true,,68065,745,1,1,https://www.facebook.com/,370,0,155
+1706829441726,239,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-5,bin,true,,3510,415,1,1,https://facebook.com/security/hsts-pixel.gif,239,0,139
+1706829441180,782,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,71575,1160,1,1,null,609,4,294

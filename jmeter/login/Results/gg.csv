@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706830455401,446,https://www.facebook.com/,200,OK,Thread Group 1-1,text,true,,68061,745,5,5,https://www.facebook.com/,285,0,142
+1706830455502,442,https://www.facebook.com/,200,OK,Thread Group 1-2,text,true,,68052,745,6,6,https://www.facebook.com/,280,0,139
+1706830455603,427,https://www.facebook.com/,200,OK,Thread Group 1-3,text,true,,68061,745,7,7,https://www.facebook.com/,277,0,139
+1706830455849,266,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-1,bin,true,,3510,415,8,8,https://facebook.com/security/hsts-pixel.gif,266,0,154
+1706830455398,712,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,71571,1160,8,8,null,551,6,296
+1706830455701,460,https://www.facebook.com/,200,OK,Thread Group 1-4,text,true,,68054,745,8,8,https://www.facebook.com/,300,0,145
+1706830455945,249,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-2,bin,true,,3510,415,8,8,https://facebook.com/security/hsts-pixel.gif,249,0,144
+1706830455502,691,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,71562,1160,8,8,null,529,2,283
+1706830455800,488,https://www.facebook.com/,200,OK,Thread Group 1-5,text,true,,68053,745,9,9,https://www.facebook.com/,318,0,153
+1706830456031,259,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-3,bin,true,,3510,415,9,9,https://facebook.com/security/hsts-pixel.gif,259,0,148
+1706830455601,686,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,71571,1160,9,9,null,536,3,287
+1706830456117,256,https://www.facebook.com/,200,OK,Thread Group 1-1,text,true,,68053,745,10,10,https://www.facebook.com/,155,0,0
+1706830455901,478,https://www.facebook.com/,200,OK,Thread Group 1-6,text,true,,68053,745,10,10,https://www.facebook.com/,286,0,148
+1706830456163,240,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-4,bin,true,,3510,415,10,10,https://facebook.com/security/hsts-pixel.gif,240,0,139
+1706830455700,700,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,71564,1160,10,10,null,540,3,284
+1706830456195,229,https://www.facebook.com/,200,OK,Thread Group 1-2,text,true,,68067,745,10,10,https://www.facebook.com/,147,0,0
+1706830455999,471,https://www.facebook.com/,200,OK,Thread Group 1-7,text,true,,68052,745,10,10,https://www.facebook.com/,287,0,136
+1706830456375,105,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-1,bin,true,,3510,415,10,10,https://facebook.com/security/hsts-pixel.gif,104,0,0
+1706830456117,361,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,71563,1160,10,10,null,259,2,0
+1706830456291,240,https://www.facebook.com/,200,OK,Thread Group 1-3,text,true,,68069,745,9,9,https://www.facebook.com/,149,0,0
+1706830456425,106,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-2,bin,true,,3510,415,9,9,https://facebook.com/security/hsts-pixel.gif,106,0,0
+1706830456195,335,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,71577,1160,9,9,null,253,2,0
+1706830456099,459,https://www.facebook.com/,200,OK,Thread Group 1-8,text,true,,68061,745,8,8,https://www.facebook.com/,280,0,140
+1706830456289,270,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-5,bin,true,,3510,415,8,8,https://facebook.com/security/hsts-pixel.gif,270,0,161
+1706830455800,758,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,71563,1160,8,8,null,588,1,314
+1706830456532,104,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-3,bin,true,,3510,415,8,8,https://facebook.com/security/hsts-pixel.gif,104,0,0
+1706830456291,344,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,71579,1160,8,8,null,253,1,0
+1706830456404,260,https://www.facebook.com/,200,OK,Thread Group 1-4,text,true,,68054,745,7,7,https://www.facebook.com/,175,0,0
+1706830456381,283,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-6,bin,true,,3510,415,7,7,https://facebook.com/security/hsts-pixel.gif,283,0,168
+1706830455900,761,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,71563,1160,7,7,null,569,4,316
+1706830456201,485,https://www.facebook.com/,200,OK,Thread Group 1-9,text,true,,68054,745,7,7,https://www.facebook.com/,312,0,177
+1706830456472,242,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-7,bin,true,,3510,415,7,7,https://facebook.com/security/hsts-pixel.gif,242,0,138
+1706830455999,713,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,71562,1160,7,7,null,529,3,274
+1706830456298,467,https://www.facebook.com/,200,OK,Thread Group 1-10,text,true,,68069,745,7,7,https://www.facebook.com/,305,0,160
+1706830456665,105,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-4,bin,true,,3510,415,7,7,https://facebook.com/security/hsts-pixel.gif,105,0,0
+1706830456404,365,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,71564,1160,7,7,null,280,1,0
+1706830456560,226,https://www.facebook.com/,200,OK,Thread Group 1-5,text,true,,68332,745,6,6,https://www.facebook.com/,141,0,0
+1706830456560,264,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-8,bin,true,,3510,415,6,6,https://facebook.com/security/hsts-pixel.gif,264,0,154
+1706830456098,723,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,71571,1160,6,6,null,544,4,294
+1706830456787,102,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-5,bin,true,,3510,439,6,6,https://facebook.com/security/hsts-pixel.gif,101,0,0
+1706830456560,328,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,71842,1184,6,6,null,242,1,0
+1706830456666,250,https://www.facebook.com/,200,OK,Thread Group 1-6,text,true,,68056,745,5,5,https://www.facebook.com/,143,0,0
+1706830456715,228,https://www.facebook.com/,200,OK,Thread Group 1-7,text,true,,68061,745,5,5,https://www.facebook.com/,144,0,0
+1706830456687,266,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-9,bin,true,,3510,415,5,5,https://facebook.com/security/hsts-pixel.gif,266,0,160
+1706830456200,751,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,71564,1160,5,5,null,578,2,337
+1706830456766,251,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-10,bin,true,,3510,415,5,5,https://facebook.com/security/hsts-pixel.gif,251,0,142
+1706830456298,718,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,71579,1160,5,5,null,556,1,302
+1706830456917,107,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-6,bin,true,,3510,415,5,5,https://facebook.com/security/hsts-pixel.gif,107,0,0
+1706830456665,357,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,71566,1160,5,5,null,250,3,0
+1706830456825,214,https://www.facebook.com/,200,OK,Thread Group 1-8,text,true,,68061,745,4,4,https://www.facebook.com/,131,0,0
+1706830456943,109,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-7,bin,true,,3510,415,4,4,https://facebook.com/security/hsts-pixel.gif,109,0,0
+1706830456715,337,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,71571,1160,4,4,null,253,0,0
+1706830457040,106,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-8,bin,true,,3510,415,3,3,https://facebook.com/security/hsts-pixel.gif,106,0,0
+1706830456825,320,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,71571,1160,3,3,null,237,2,0
+1706830456954,260,https://www.facebook.com/,200,OK,Thread Group 1-9,text,true,,68053,745,2,2,https://www.facebook.com/,150,0,0
+1706830457215,120,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-9,bin,true,,3510,415,2,2,https://facebook.com/security/hsts-pixel.gif,120,0,0
+1706830456954,380,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,71563,1160,2,2,null,270,1,0
+1706830457018,321,https://www.facebook.com/,200,OK,Thread Group 1-10,text,true,,68068,745,1,1,https://www.facebook.com/,143,0,0
+1706830457340,101,https://facebook.com/security/hsts-pixel.gif,200,OK,Thread Group 1-10,bin,true,,3510,415,1,1,https://facebook.com/security/hsts-pixel.gif,101,0,0
+1706830457017,422,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,71578,1160,1,1,null,244,2,0
