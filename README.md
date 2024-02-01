@@ -7,7 +7,7 @@ This repo is for my Manual &Automation Test cases and bug reports about facebook
   <p>to review bug reports and test cases you need the following</p>
   <li>having <code>MS Office 2010</code> or newer version</li>
   <li>Having adobe or other pdf readers</li>
-  <li><code>Apache Jmeter v5.8.3</code> installed on your machine for performance testing and it requires <code>java v8</code><br> also being installed </li>
+  <li><code>Apache Jmeter v5.8.3</code> installed on your machine for performance testing<br> and it requires <code>java v8</code> also being installed </li>
   <li>other tools that will be mentioned in future</li>
 </ol>
 <p>These bug reports and test cases are for portfolio and work showcase any Bad or malicious usage is not allowed</p>
